@@ -1,0 +1,1223 @@
+{
+    "departments": [
+      {
+        "deptName": "Agriculture",
+        "schemes": [
+          {
+            "schemeName": "Sustainable Cotton Cultivation",
+            "inputTypes": [
+              {
+                "inputTypeName": "Drone Hiring Charges includin Plant protection & Labour cost",
+                "details": {
+                  "schemeDescription": "To increase the cotton area and production, yield enhancing technologies and inputs are being distributed to farmers at subsidised cost.",
+                  "subsidy": "50% subsidy @ Rs.1250/ha.",
+                  "Eligibility": "Cotton growing Farmers of 29 Major cotton growing districts of Tamil Nadu. Preference will be given to small and marginal farmers, women farmers and SC / ST farmers.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Agro Eco System Analysis based on Cotton health management",
+                "details": {
+                  "schemeDescription": "To increase the cotton area and production, yield enhancing technologies and inputs are being distributed to farmers at subsidised cost.",
+                  "subsidy": "Demonstration - Rs. 4200/Ha. as 100% subsidy.",
+                  "Eligibility": "Cotton growing Farmers of 29 Major cotton growing districts of Tamil Nadu. Preference will be given to small and marginal farmers, women farmers and SC / ST farmers.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Distribution Of Integerated Nutrient Management Kit",
+                "details": {
+                  "schemeDescription": "To increase the cotton area and production, providing cotton Micro nutrient mixture, Liquid Bio fertilizer and MgSo4 spraying cost.",
+                  "subsidy": "Rs. 1400/Ha. as 50% subsidy",
+                  "Eligibility": "Cotton growing Farmers of 29 Major cotton growing districts of Tamil Nadu. Preference will be given to small and marginal farmers, women farmers and SC / ST farmers.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "High Density Planting System",
+                "details": {
+                  "schemeDescription": "To increase the cotton area and production, with cotton seeding and MN Mixture cost coverage.",
+                  "subsidy": "Rs. 4900/Ha. as 100% subsidy with demonstration",
+                  "Eligibility": "Cotton growing Farmers of 29 Major cotton growing districts of Tamil Nadu. Preference will be given to small and marginal farmers, women farmers and SC / ST farmers.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Kalaignar All village Integrated Development Program",
+            "inputTypes": [
+              {
+                "inputTypeName": "Farm Implement Kit",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "Rs.1500 or 50% of the cost per unit whichever is less",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Distribution Of Tarpaulin",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "Rs.1000 or 50% of the cost per unit whichever is less",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Power or operator Sprayer",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "Rs.3000 or 50% of the cost per unit whichever is less",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Distribution of Bio Fertilizer",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "2 Litres of liquid biofertilizer / ha. at 50% subsidy or Rs.300 whichever is less",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Distribution of Power or Battery operated sprayer",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "Rs.3000 per Power or Battery Operated sprayer or 50% subsidy whichever is less",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Coconut Seedlings",
+                "details": {
+                  "schemeDescription": "To attain overall development in Agriculture and self-sufficiency in all villages of Tamil Nadu, this scheme is being implemented integrating with all the other farmers welfare related department schemes.",
+                  "subsidy": "2 Tall Coconut Seedlings per family at 100% subsidy",
+                  "Eligibility": "All the families in the selected village panchayats could get benefits.",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta",
+                    "5.Photocopy of Ration Card"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Sub Mission On Schemes and Planting Matter",
+            "inputTypes": [
+              {
+                "inputTypeName": "OilSeeds",
+                "details": {
+                  "schemeDescription": "Provides Cost For the Product of Groundnut seed and Gingelly seed",
+                  "subsidy": "60 % of the Seed cost or Rs.7800/- Subsidy per qtl whichever is less",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Pulses",
+                "details": {
+                  "schemeDescription": "Provides Cost For the Seeds of Red gram,Black Gram,Green gram,Cowpes ,Horse gram,Bengal Gram",
+                  "subsidy": "60 % of the Seed cost or Rs.4800/- Subsidy per qtl whichever is less ",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Millets",
+                "details": {
+                  "schemeDescription": "Provides Cost For the Seeds of Cumbu,Sorghum,Ragi,Tenai,samai,kuthiraivali,varagu",
+                  "subsidy": "50 % of the Seed cost or Rs.2000/- Subsidy per qtl whichever is less",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Paddy",
+                "details": {
+                  "schemeDescription": "Provides Cost For the Seeds of any Paddy Variety",
+                  "subsidy": "50 % of the Seed cost or Rs.1750/- Subsidy per qtl whichever is less",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+              
+            ]
+          },
+          {
+            "schemeName": "NADP-IFS",
+            "inputTypes": [
+              {
+                "inputTypeName": "Integrated Farming System",
+                "details": {
+                  "schemeDescription": "Integrated Farming System (IFS) - cultivation of crops and Fodder along with rearing of Milch cow, Goats or Sheep & Poultry Birds, cultivation of Tree crops, apiary, Vermi-compost production and Fruit Plants / Nutri-garden, by providing an assistance of Rs.50,000/- for each IFS unit. (50% subsidy)",
+                  "subsidy": "Rs.50,000/- for each IFS unit. (50% subsidy)",
+                  "Eligibility": "Minimum of 1 Ha. Land (For SC/St - 1 Acre land) 24 - Districts 1.Kancheepuram, 2.Thiruvallur, 3.Chengalpet, 4.Cuddalore, 5.Villupuram, 6.Kallakurichi, 7.Thiruvannamalai 8.Salem, 9.Namakkal, 10.Karur, 11.Erode, 12.Tiruppur, 13.Coimbatore, 14.Trichy, 15.Ariyalur, 16.Pudukottai, 17.Thanjavur, 18.Thiruvarur, 19.Mayiladuthurai, 20.Theni, 21.Nagapattinam, 22.Tirunelveli, 23.Madurai and 24.Thenkasi. / ",
+                  "documentsRequired": [
+                   "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "FNS Cotton",
+            "inputTypes": [
+              {
+                "inputTypeName": "Distribution Of Bio Control Agents",
+                "details": {
+                  "schemeDescription": "Assistance will be provided to farmers for purchase of seeds for bund cropping, Liquid Bio-fertilizer, Trichoderma viride , Cotton Micro Nutrietnt Mixture, CREMIT product to control Pink Bollworm to lay out Frontline demonstration on Integrated Crop Management",
+                  "subsidy": "Nil",
+                  "Eligibility": "All farmers ",
+                  "documentsRequired": [
+                   "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Bank account details"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Frontline demonstration on Intercropping with cotton",
+                "details": {
+                  "schemeDescription": "Assistance will be provided to farmers for purchase of seeds for bund cropping, Liquid Bio-fertilizer, Trichoderma viride , Cotton Micro Nutrietnt Mixture, CREMIT product to control Pink Bollworm to lay out Frontline demonstration on Integrated Crop Management",
+                  "subsidy": "100% Subsidy",
+                  "Eligibility": "All farmers ",
+                  "documentsRequired": [
+                   "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Frontline demonstration on Intercropping with cotton",
+                "details": {
+                  "schemeDescription": "Assistance will be provided to farmers for purchase of seeds for bund cropping, Liquid Bio-fertilizer, Trichoderma viride , Cotton Micro Nutrietnt Mixture, CREMIT product to control Pink Bollworm to lay out Frontline demonstration on Integrated Crop Management",
+                  "subsidy": "100% Subsidy",
+                  "Eligibility": "All farmers ",
+                  "documentsRequired": [
+                   "1.Chitta",
+                    "2.Adangal",
+                    "3.Photocopy of Aadhar Card",
+                    "4.Patta"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Chief Ministers Dryland Development System",
+            "inputTypes": [
+              {
+                "inputTypeName": "Chief Ministers Dryland Development System",
+                "details": {
+                  "schemeDescription": "To increase the production and productivity of Rainfed crops To preserve and protect the soil health & Environment To improve the livelihood of dryland farmers",
+                  "subsidy": "100% funded by the State Government",
+                  "Eligibility": "Implementing in 31 districts (Except Chennai, Kanchipuram, Thiruvarur, Nagappattinam, Mayiladuthurai, The Nilgiris & Kanyakumari) s",
+                  "documentsRequired": [
+                    "1.Chitta",
+                    "2.Adangal",
+                    "3.Patta"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "National Agriculture programme-Pulses",
+            "inputTypes": [
+              {
+                "inputTypeName": "Productivity enhancement in redgram",
+                "details": {
+                  "schemeDescription": "provides Financial Support with Seed cost,Plant protection Chemical including Bio control agent,Organic Manure,Assistance for line sowing ,Liquid Bio-fertilizer,Dap Foliar Spray",
+                  "subsidy": "Rs 500/Ha for all and Rs 1000/Ha for DAP spray",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "NADP Strengthening Of Paddy Production",
+            "inputTypes": [
+              {
+                "inputTypeName": "Promotion Of Newly Released paddy variety",
+                "details": {
+                  "schemeDescription": "provides Financial Support with Seed cost,Plant protection Chemical including Bio control agent,Organic Manure,Assistance for line sowing ,Liquid Bio-fertilizer,Dap Foliar Spray",
+                  "subsidy": "50% of the cost or Rs.20/-per Kg whichever is less for less than 20 years and Rs 8/kg for less than 10years",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                  "1.Chitta",
+                    "2.Adangal",
+                    "3.Patta"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Seed Farm registration",
+            "inputTypes": [
+              {
+                "inputTypeName": "Open New seed farms",
+                "details": {
+                  "schemeDescription": "A farmer family can avail upto a maximum of 5 acres of seed farm for Paddy and a maximum of 12.5 acres of seed farm for other crops. Seed certification procedures should be followed. Uniform seed price policy will be followed across the state. A first installment of 90 per cent of minimum procurement price (MSP) for paddy and small grain crops will be provided once the seeds are stocked at the processing unit. First installment of 80 per cent of TANSEDA price for pulses and oilseed crops. The remaining amount will be disbursed as a second installment after the processing is completed and the seed has passed the test at the end of the inspection.",
+                  "subsidy": "Paddy (very fine variety - 5 acre max) Paddy (fine Variety - 5 acre max) Blackgram - 12.5 acre max Ragi - 12.5 acre max Barn yard Millet - 12.5 acre max Ground nut - 12.5 acre max",
+                  "Eligibility": "All farmers ",
+                  "documentsRequired": [
+                  "1.Adhar card",
+                    "2.Adangal",
+                    "3.Patta",
+                    "4.Chitta"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Rainfed Area development",
+            "inputTypes": [
+              {
+                "inputTypeName": "CM MK MKS-Integrity farming system",
+                "details": {
+                  "schemeDescription": "Providing a farmer with Milk cow (1) and Goat (10) or Vermibed (1) or Apiary unit(1) or Free seedlings for the development of the Rain fed forest",
+                  "subsidy": "100 % funded by the government",
+                  "Eligibility": "All farmers",
+                  "documentsRequired": [
+                  "1.Adhar card",
+                  "2. Income Certificate"
+               
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Tamil Nadu Mission on Sustainable Dryland Development (TNMSDD) - Phase II",
+            "inputTypes": [
+              {
+                "inputTypeName": "Summer Ploughing and Cultivation of Maize and Cotton",
+                "details": {
+                  "schemeDescription": "Enhances the livelihood of dryland farmers by providing subsidies for summer ploughing and cultivation of maize and cotton crops.",
+                  "subsidy": "Rs. 11,250 per hectare",
+                  "Eligibility": "Farmers having cultivable land of 0.5 acre to 5 acres",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Micro Irrigation (MI)",
+            "inputTypes": [
+              {
+                "inputTypeName": "Installation of Drip and Sprinkler Systems",
+                "details": {
+                  "schemeDescription": "Provides 100% subsidy to small and marginal farmers for installing drip and sprinkler irrigation systems to promote efficient water usage.",
+                  "subsidy": "100% subsidy",
+                  "Eligibility": "Small and marginal farmers with cultivable land of 0.5 acre to 5 acres",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Food Grain Mission",
+            "inputTypes": [
+              {
+                "inputTypeName": "Cultivation of Paddy, Millets, and Pulses",
+                "details": {
+                  "schemeDescription": "Aims to increase the production of food grains including paddy, millets, and pulses.",
+                  "subsidy": "Varies based on crop and area",
+                  "Eligibility": "Farmers with cultivable land of 0.5 acre to 5 acres",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Tamil Nadu Irrigated Agriculture Modernization and Water-Bodies Restoration and Management (TNIAMP)",
+            "inputTypes": [
+              {
+                "inputTypeName": "Crop Demonstration in Lower Sub-Basin of Vellar",
+                "details": {
+                  "schemeDescription": "Provides subsidy for crop demonstration in the lower sub-basin of Vellar to promote modern irrigation practices.",
+                  "subsidy": "Rs. 1,000 per hectare",
+                  "Eligibility": "Farmers with cultivable land of 0.5 acre to 5 acres",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Kudimaramathu Scheme",
+            "inputTypes": [
+              {
+                "inputTypeName": "Restoration of Minor Irrigation Tanks and Lakes",
+                "details": {
+                  "schemeDescription": "A community-driven initiative for restoring minor irrigation tanks and lakes to improve water storage and irrigation.",
+                  "subsidy": "Government-funded restoration projects",
+                  "Eligibility": "Community participation; specific eligibility criteria may apply",
+                  "documentsRequired": [
+                    "Community participation agreement",
+                    "Relevant identification documents"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Uzhavar Santhai",
+            "inputTypes": [
+              {
+                "inputTypeName": "Direct Farmer-to-Consumer Markets",
+                "details": {
+                  "schemeDescription": "Establishes markets to facilitate direct sales between farmers and consumers, eliminating middlemen.",
+                  "subsidy": "Infrastructure and operational support by the government",
+                  "Eligibility": "Registered farmers",
+                  "documentsRequired": [
+                    "Farmer registration documents",
+                    "Aadhar Card"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Assistance to Farmers for Improving Soil Health",
+            "inputTypes": [
+              {
+                "inputTypeName": "Distribution of Micro Nutrient Mixtures",
+                "details": {
+                  "schemeDescription": "Provides micro nutrient mixtures to farmers to enhance soil fertility.",
+                  "subsidy": "Rs. 38 per kg",
+                  "Eligibility": "All farmers in the state",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Distribution of Biofertilizers",
+                "details": {
+                  "schemeDescription": "Supplies biofertilizers like Azospirillum, Rhizobium, and Phosphobacteria to promote sustainable agriculture.",
+                  "subsidy": "Rs. 6 per 200g packet",
+                  "Eligibility": "All farmers in the state",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card"
+                  ]
+                }
+              },
+              {
+                "inputTypeName": "Vermicomposting of Agricultural Waste",
+                "details": {
+                  "schemeDescription": "Encourages vermicomposting through demonstrations and training to manage agricultural waste effectively.",
+                  "subsidy": "Rs. 1,200 for demonstration; Rs. 50 per farmer for training",
+                  "Eligibility": "All farmers in the state except Chennai and The Nilgiris districts",
+                  "documentsRequired": [
+                    "Land ownership documents",
+                    "Aadhar Card"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Crop Insurance Scheme",
+            "inputTypes": [
+              {
+                "inputTypeName": "Insurance Coverage for Major Crops",
+                "details": {
+                  "schemeDescription": "Provides insurance coverage to farmers against production risks for 25 major crops.",
+                  "subsidy": "100% funded by the State Government",
+                  "Eligibility": "All farmers cultivating the specified crops",
+                  "documentsRequired": [
+                    "Crop cultivation details",
+                    "Aadhar Card",
+                    "Bank account details"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "National Food Security Mission (NFSM)",
+            "inputTypes": [
+              {
+                "inputTypeName": "Rice, Pulses, Coarse Cereals",
+                "details": {
+                  "schemeDescription": "Focuses on increasing production of rice, pulses, and coarse cereals through area expansion and productivity enhancement.",
+                  "subsidy": "Includes seed, demonstration, and machinery subsidy",
+                  "Eligibility": "All farmers in target districts",
+                  "documentsRequired": [
+                    "Land documents",
+                    "ID Proof",
+                    "Bank account number"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "schemeName": "Paramparagat Krishi Vikas Yojana (PKVY)",
+            "inputTypes": [
+              {
+                "inputTypeName": "Organic Farming",
+                "details": {
+                  "schemeDescription": "Promotes cluster-based organic farming with certification and market linkage support.",
+                  "subsidy": "Financial assistance of Rs. 50,000 per hectare for 3 years",
+                  "Eligibility": "Farmers enrolled in certified organic clusters",
+                  "documentsRequired": [
+                    "Cluster registration",
+                    "ID and Land documents"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+       {
+      "deptName": "Horticulture",
+      "schemes": [
+        {
+          "schemeName": "Mission for Integrated Development of Horticulture (MIDH-NHM)",
+          "inputTypes": [
+            {
+              "inputTypeName": "Area Expansion Programme",
+              "details": {
+                "schemeDescription": "Supports cultivation of hybrid vegetables like brinjal, tomato, and chillies by providing pro-tray seedlings at no cost.",
+                "subsidy": "Rs. 20,000 per hectare",
+                "Eligibility": "All farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            },
+            {
+              "inputTypeName": "Mango Cultivation under High Density Planting",
+              "details": {
+                "schemeDescription": "Promotes high-density planting of mango to increase productivity.",
+                "subsidy": "Rs. 9,840 per hectare",
+                "Eligibility": "All farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            },
+            {
+              "inputTypeName": "Flower Crops Cultivation",
+              "details": {
+                "schemeDescription": "Encourages cultivation of flowers like marigold and tuberose by providing pro-tray seedlings.",
+                "subsidy": "Rs. 16,000 per hectare for marigold; Rs. 20,000 per hectare for tuberose",
+                "Eligibility": "All farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) - Micro Irrigation",
+          "inputTypes": [
+            {
+              "inputTypeName": "Installation of Drip and Sprinkler Systems",
+              "details": {
+                "schemeDescription": "Provides financial assistance for installing micro irrigation systems to promote efficient water usage.",
+                "subsidy": "100% subsidy for small and marginal farmers; 75% subsidy for other farmers",
+                "Eligibility": "Farmers with cultivable land up to 5 hectares",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Integrated Horticulture Development Scheme (IHDS)",
+          "inputTypes": [
+            {
+              "inputTypeName": "Promotion of Horticultural Crops",
+              "details": {
+                "schemeDescription": "Aims to enhance the production and productivity of horticultural crops through various interventions.",
+                "subsidy": "Varies based on crop and area",
+                "Eligibility": "All farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Tamil Nadu Irrigated Agriculture Modernization Project (TNIAMP) – IAMWARM",
+          "inputTypes": [
+            {
+              "inputTypeName": "Crop Demonstration in Irrigated Areas",
+              "details": {
+                "schemeDescription": "Provides support for crop demonstrations in irrigated areas to promote modern agricultural practices.",
+                "subsidy": "Varies based on specific interventions",
+                "Eligibility": "Farmers in designated project areas",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Collective Farming",
+          "inputTypes": [
+            {
+              "inputTypeName": "Formation of Farmer Producer Groups",
+              "details": {
+                "schemeDescription": "Encourages farmers to form groups for collective cultivation and marketing to achieve economies of scale.",
+                "subsidy": "Support for group formation and capacity building",
+                "Eligibility": "Groups of farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Group registration documents",
+                  "Aadhar Cards of members",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Primary Cooperative Agriculture and Rural Development Bank: For Horticulture",
+          "inputTypes": [
+            {
+              "inputTypeName": "Loan Assistance for Horticultural Activities",
+              "details": {
+                "schemeDescription": "Provides financial support to farmers through loans specifically aimed at horticultural activities.",
+                "subsidy": "Loans ranging from Rs. 25,000 to Rs. 2,00,000 per 0.4 hectare at interest rates between 11% to 12.75% per annum",
+                "Eligibility": "Farmers residing in Tamil Nadu engaged in horticultural activities",
+                "documentsRequired": [
+                  "Identity proof (e.g., Aadhar Card, PAN Card)",
+                  "Address proof",
+                  "Proof of agricultural occupation",
+                  "Any other documents as specified by the scheme guidelines"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "National Bamboo Mission",
+          "inputTypes": [
+            {
+              "inputTypeName": "Bamboo Cultivation and Processing",
+              "details": {
+                "schemeDescription": "Promotes bamboo cultivation and its processing for various uses.",
+                "subsidy": "Financial assistance for plantation and infrastructure development",
+                "Eligibility": "Farmers and entrepreneurs in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Precision Farming",
+          "inputTypes": [
+            {
+              "inputTypeName": "Adoption of Precision Farming Techniques",
+              "details": {
+                "schemeDescription": "Encourages the use of precision farming techniques to increase productivity and resource efficiency.",
+                "subsidy": "Subsidies for equipment and training",
+                "Eligibility": "Farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Urban Horticulture Development Scheme",
+          "inputTypes": [
+            {
+              "inputTypeName": "Do It Yourself Kit Distribution",
+              "details": {
+                "schemeDescription": "Provides kits for urban residents to cultivate vegetables and fruits in limited spaces.",
+                "subsidy": "Provision of kits at subsidized rates",
+                "Eligibility": "Urban residents in Tamil Nadu",
+                "documentsRequired": [
+                  "Proof of residence",
+                  "Aadhar Card"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Establishment of Senganthal Poonga",
+          "inputTypes": [
+            {
+              "inputTypeName": "Development of Senganthal Poonga",
+              "details": {
+                "schemeDescription": "Establishment of Senganthal Poonga at an outlay of Rs. 5.00 crore.",
+                "subsidy": "Government-funded project",
+                "Eligibility": "Community participation; specific eligibility criteria may apply",
+                "documentsRequired": [
+                  "Community participation agreement",
+                  "Relevant identification documents"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Garden Kit Distribution",
+          "inputTypes": [
+            {
+              "inputTypeName": "Distribution of Garden Kits",
+              "details": {
+                "schemeDescription": "Provides garden kits to promote home gardening among residents.",
+                "subsidy": "Subsidized garden kits",
+                "Eligibility": "Residents of Tamil Nadu",
+                "documentsRequired": [
+                  "Proof of residence",
+                  "Aadhar Card"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Horticulture Subsidy Registration",
+          "inputTypes": [
+            {
+              "inputTypeName": "Online Registration for Horticulture Subsidies",
+              "details": {
+                "schemeDescription": "Facilitates online registration for various horticulture subsidies.",
+                "subsidy": "Access to multiple subsidy schemes",
+                "Eligibility": "Farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Micro Irrigation Management Information System (MMIS)",
+          "inputTypes": [
+            {
+              "inputTypeName": "Online Application for Micro Irrigation",
+              "details": {
+                "schemeDescription": "Provides an online platform for applying to micro irrigation schemes.",
+                "subsidy": "Subsidies as per PMKSY guidelines",
+                "Eligibility": "Farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Soil Health Card Scheme",
+          "inputTypes": [
+            {
+              "inputTypeName": "Issuance of Soil Health Cards",
+              "details": {
+                "schemeDescription": "Provides soil health cards to farmers to guide them on appropriate fertilizer usage.",
+                "subsidy": "Free soil testing and recommendations",
+                "Eligibility": "All farmers in Tamil Nadu",
+                "documentsRequired": [
+                  "Land ownership documents",
+                  "Aadhar Card"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "schemeName": "Crop Insurance Scheme",
+          "inputTypes": [
+            {
+              "inputTypeName": "Insurance Coverage for Horticultural Crops",
+              "details": {
+                "schemeDescription": "Provides insurance coverage to farmers against production risks for horticultural crops.",
+                "subsidy": "Premium subsidy as per government norms",
+                "Eligibility": "Farmers cultivating specified horticultural crops",
+                "documentsRequired": [
+                  "Crop cultivation details",
+                  "Aadhar Card",
+                  "Bank account details"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+  {
+    "deptName": "Agriculture Engineering",
+    "schemes":[
+        {
+            "schemeName":"Electric Motor Pump set with subsidy",
+            "inputTypes":[
+            {
+            "inputTypeName": "Electric Motor Pump set with subsidy",
+            "details": {
+            "schemeDescription": "The subsidy assistance will be provided for the replacement of old inefficient electric motor pumpsets, and for the farmers who have created new borewell/tubewell/open well",
+            "subsidy": "15000 or 50% on each unit",
+            "Eligibility": "For the replacement of old inefficient electric motor pumpsets, and for the farmers who have created new borewell/tubewell/open well and have obtained EB connection of their own, all the farmers who own upto 5 acres of land are eligible.",
+            "documentsRequired": [
+              "The farmers who have not installed Micro Irrigation System already in their fields by Tamil Nadu Horticulture Development Agency (TANHODA) may conduct Assistant Executive Engineer (AE) office of Agricultural Engineering Department in their revenue division level in person with the following records to register their applications in Uzhavan app or through the online website of Micro Irrigation Management information system (MIMIS). a. Aadhar card-copy b. Passport size photo c. Front page of Bank passbook –copy d. Community Certificate-copy (If belongs to SC/ST) e. SF/MF Certificate (Certificate from the concerned Tahsildar for owing upto 5 acres of land holdings) f. Land records of Chitta and Adangal with well details g. Certificate of EB service connection –copy h. Proforma invoice/quotation Already Micro Irrigation system installed farmers in their fields by Tamil Nadu Horticulture Development Agency (TANHODA) may conduct Assistant Executive Engineer (AE) office of Agricultural Engineering Department in their revenue division level in person with the following records to register their applications in Uzhavan app or through the online website of Micro Irrigation Management information system (MIMIS). a. Certificate of EB service connection –copy b. Proforma invoice/quotation / "
+              
+            ]
+        }
+        }
+    ]
+  },
+  {
+    "schemeName":"Submission On Agricultural mechanisation",
+    "inputTypes":[
+    {
+    "inputTypeName": "Sugarcane Based Custom Hiring Center",
+    "details": {
+    "schemeDescription": "The farm machinery, implements and equipments required for mechanized sugarcane cultivation are given through Rural Entrepreneurs and Sugar mills by establishing Sugarcane Custom Hiring Centres (CHC) with 40% subsidy assistance to a maximum limit of Rs.60 lakh at a project cost of Rs.150 lakh per sugarcane based custom hiring centre.",
+    "subsidy": "40% subsidy on The MRP.",
+    "Eligibility": "For the replacement of old inefficient electric motor pumpsets, and for the farmers who have created new borewell/tubewell/open well and have obtained EB connection of their own, all the farmers who own upto 5 acres of land are eligible.",
+    "documentsRequired": [
+      "The farmers who have not installed Micro Irrigation System already in their fields by Tamil Nadu Horticulture Development Agency (TANHODA) may conduct Assistant Executive Engineer (AE) office of Agricultural Engineering Department in their revenue division level in person with the following records to register their applications in Uzhavan app or through the online website of Micro Irrigation Management information system (MIMIS). a. Aadhar card-copy b. Passport size photo c. Front page of Bank passbook –copy d. Community Certificate-copy (If belongs to SC/ST) e. SF/MF Certificate (Certificate from the concerned Tahsildar for owing upto 5 acres of land holdings) f. Land records of Chitta and Adangal with well details g. Certificate of EB service connection –copy h. Proforma invoice/quotation Already Micro Irrigation system installed farmers in their fields by Tamil Nadu Horticulture Development Agency (TANHODA) may conduct Assistant Executive Engineer (AE) office of Agricultural Engineering Department in their revenue division level in person with the following records to register their applications in Uzhavan app or through the online website of Micro Irrigation Management information system (MIMIS). a. Certificate of EB service connection –copy b. Proforma invoice/quotation / "
+      
+    ]
+}
+},
+{
+    "inputTypeName": "Village level Custom Hiring Center",
+    "details": {
+    "schemeDescription": "The subsidy assistance provided for the establishment Village level custom hiring centres to the Registered farmers Societies, Farmer Producer Organization (FPO)s is 80% of the total cost or a maximum amount of Rs.8 lakh per centre. Priority will be given, farmers groups in the villages of Chief Minister’s Dryland Development Mission.",
+    "subsidy": "80% subsidy on The MRP or 8 Lakhs.",
+    "Eligibility": "All farmers ",
+    "documentsRequired": [
+      "1.Adhar card",
+      "2.Organisation Details"
+    ]
+    }
+},
+{
+    "inputTypeName": "Block level Custom Hiring Center",
+    "details": {
+    "schemeDescription": "The subsidy assistance for forming custom hiring centre is 40% of the total cost or a maximum amount of Rs.10 lakh per centre",
+    "subsidy": "40% subsidy on The MRP or 10 Lakhs.",
+    "Eligibility": "All farmers ",
+    "documentsRequired": [
+      "1.Adhar card",
+      "2.Organisation Details"
+    ]
+    }
+}
+]
+},
+{
+    "schemeName":"CM Solar Pump set",
+    "inputTypes":[
+    {
+    "inputTypeName": "Chief Ministers Solar Pumpset Insatllation",
+    "details": {
+    "schemeDescription": "To meet the electricity requirement of the farmers for pumping the water for irrigation, to promote Solar energy utilization, as a renewable energy in agriculture, Standalone Solar powered pumping systems is being provided to farmers with subsidy assistance.",
+    "subsidy": "Average Total Cost of 5 hp submersible pumpset will be Rs.2,69,717/- and Subsidy Rs.1,88,802/- Average Total Cost of 7.5 hp submersible pumpset will be Rs.3,63,898/- and Subsidy Rs.2,54,728/-. Average Total Cost of 10 hp submersible pumpset will be Rs.4,57,240/- and Subsidy will be Rs.2,54,728/- ",
+    "Eligibility": "New Solar Agricultural Pumps would not be covered under this component in Dark zones / black zones. However, existing standalone diesel pumps can be converted into standalone solar pumps in these areas provided they use micro irrigation techniques to save water.",
+    "documentsRequired": [
+      "1.Adhar card",
+      "2.Land details"
+      
+    ]
+}
+}
+]
+},
+{
+    "schemeName":"Solar Dryin Unit Installation",
+    "inputTypes":[
+    {
+    "inputTypeName": "Solar Drying Unit Insatllation",
+    "details": {
+    "schemeDescription": "To help the farmers in reducing the post harvest losses of agricultural produce, to dry the agricultural produce in a hygienic manner and to value add the produce to get more profit in the market, Poly carbonate sheet covered Solar Drying units are being provided to the farmers/farmers groups with subsidy assistance.",
+    "subsidy": "For 400 Sq.ft. the Total Cost Will be Rs.3,06,000/- & Subsidy assistance - Rs.1,22,400/- For 601 Lines the Total Cost Will be Rs. 4,44,139/- & Subsidy assistance - Rs.1,77,655/- For 801 Lines Total Cost Will be Rs.5,71,914 & Subsidy assistance - Rs.2,28,765/- For 1000 Lines the Total Cost Will be Rs.7,14,000 & subsidy assistance - Rs.2,85,600/- ",
+    "Eligibility": "All farmers ",
+    "documentsRequired": [
+      "1.Adhar card",
+      "2.Land details"
+      
+    ]
+}
+}
+]
+},
+{
+    "schemeName":"Value addition Machinery Facilitation centre",
+    "inputTypes":[
+    {
+    "inputTypeName":"Value addition Machinery Facilitation centre",
+    "details": {
+    "schemeDescription": "Providing Financial assistance for machinery brought",
+    "subsidy": "50% subsidy assistance amounting to a maximum permissible subsidy amount of Rs.5 lakh for a total project cost of Rs.10 lakh per Custom Hiring Centre.",
+     "Eligibility": "All farmers ",
+     "documentsRequired": [
+      "1.Adhar card",
+      "2.Machine details"
+      
+    ]
+}
+}
+]
+}
+]
+},
+{
+    "deptName":"Seed Certification And organic Certification",
+     "schemes":[
+        {
+            "schemeName":"NPOP Certificate",
+            "inputTypes":[
+                {
+                    "inputTypeName":"NPOP Certificate for Prducts Organic Compound",
+                    "details":{
+                        "schemeDescription":"The scope certificate given to farmers is proof of their organic status helps them for internal trade of their products and also in export possibilities.",
+                        "subsidy":"Funded By Government",
+                        "Eligibility":"All farmers ",
+                        "documentsRequired":[
+                            "1.Form 1A1 ",
+                            "2. TNOCD agreement Form",
+                            "3. Computer chitta","4. Annual cropping plan","5. General details of farm","6. Farm diagram ",
+                            "7.Soil and water sample reports","8. Photo of applicant- 2 Nos.","9. Pan card ","10. Aadhaar card"
+
+                        ]
+                    }
+                }
+            ]
+        }
+     ]
+},
+{
+    "deptName":"Marketing and Agri Business",
+     "schemes":[
+        {
+            "schemeName":"Tamil Nadu Irrigated Agriculture Modernization ",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Financial assistance to FPO's",
+                    "details":{
+                        "schemeDescription":"Creation of new Farmer Producer Companies, Business development for existing Farmer Producer Companies, promotion of agri-entrepreneurs and modernization of Regulated Markets are the various interventions of this project.",
+                        "subsidy":"Funded By Government",
+                        "Eligibility":"All farmers ",
+                        "documentsRequired":[
+                           "1.Aadhaar", "2. Chitta", "3.Adangal", "4. Bank Account details" ,
+                           "5. FPO incorporation certificate"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Regulated Markets",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Storage Platforms And Trading Platform For Farmers",
+                    "details":{
+                        "schemeDescription":"It facilitates trading by adopting a secret tender system, wherein farmers get competitive price when compared to sale that occurs in local markets or at the farm gate. No fee is collected from the farmers for the services rendered in Regulated Markets",
+                        "subsidy":"Funded By Government",
+                        "Eligibility":"All farmers and Licensed traders who market their farm produce through Regulated markets ",
+                        "documentsRequired":[
+                           "1.Aadhaar", "2. Chitta", "3.Adangal", "4. Bank Account details" ,
+                           "5. Form 22 (Issued in RMs)"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Farmer Producer Organisations",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Financial assistance to FPO's under mezanine capital assistance",
+                    "details":{
+                        "schemeDescription":"It facilitates trading by adopting a secret tender system, wherein farmers get competitive price when compared to sale that occurs in local markets or at the farm gate. No fee is collected from the farmers for the services rendered in Regulated Markets",
+                        "subsidy":"Nil",
+                        "Eligibility":"FPC duly registered under the companies act with minimum number of 500 members complying with scheme guidelines ",
+                        "documentsRequired":[
+                            "1. FPO Incorporation certificate", "2. FPO Bank account details","3. Audited Balance sheets", "4. Receipts", "5. Acknowledgement for CEO - (for 1 year old FPO)"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Price Support Scheme",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Financial Limit Setting for Crops during Pric downfall",
+                    "details":{
+                        "schemeDescription":"To protect farmers from price fall during peak harvest season, Price Support Scheme is being implemented in the State.",
+                        "subsidy":"Procurement of Copra, Black gram, green gram and red gram",
+                        "Eligibility":"Produce only with fair average quality will be procured. Procurement quantity is decided based on average production and 25% of the production is procured accordingly from all the farmers.",
+                        "documentsRequired":[
+                            "1.Aadhaar", "2. Chitta", "3. Adangal", "4. Bank Account details", "5.Mobile No"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Supply Chain Management",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Primary And Secondary Processing Centre",
+                    "details":{
+                        "schemeDescription":"To reduce post-harvest losses, to connect farmers with major market centres, processors and consumers, to convert surplus production into value added products, to provide uninterrupted supply of quality fruits and vegetables to the consumers etc",
+                        "subsidy":"Nil",
+                        "Eligibility":"FPOs, Exporters, Private entities and other stake holders involved in fruits and vegetables sales. ",
+                        "documentsRequired":[
+                            "1.Business details", "2. Balance sheet", "3. Profit & Loss statement", "4. Aadhaar",
+                             "5. Bank Account details", "6. Mobile No.", "7.Incorporation certificate (FPOs)"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Cold Storage Management",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Lending Cold Storage units",
+                    "details":{
+                        "schemeDescription":"To enable the farmers to enhance the shelf life of the perishable produce, especially during peak harvest period with 194 cols storage units operatimg ",
+                        "subsidy":"Nil",
+                        "Eligibility":"All farmers, licensed traders, registered FPOs, SHGs.  ",
+                        "documentsRequired":[
+                            "1 Aadhaar", "2. Chitta", "3.Adangal" ,"4. Llcense (Trader)",
+                             "5.Incorporation certificate","6.Mobile No"
+                        ]
+                    }
+                }
+                
+            ]
+        },
+        {
+            "schemeName":"Tamil Nadu Irrigated Agriculture Modernization ",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Matching Grant To Existing Entrprenuer",
+                    "details":{
+                        "schemeDescription":"The scheme aims to promote agri entrepreneurship in food and agri allied sector by developing their business skill set through entrepreneurship training and providing financial linkage to the individuals. All the economically viable agri related activities such as value addition, processing and packaging facilities (including primary processing). Priority will be given to projects which are eco-friendly, accord importance to energy conservation and are export oriented. The total project cost shall be the maximum of Rs.5.00 lakhs. Capital subsidy will 40% of project cost not exceeding maximum of Rs.2.00 lakhs. Promoter’s contribution is 20% of the project cost.",
+                        "subsidy":"50% of project cost with a ceiling of Rs.5.00 lakhs ",
+                        "Eligibility":"Individuals with Degree/ Diploma/ ITI / Vocational training from Recognized institutions. Preference will be given for the Agricultural graduates. All the economically viable agri related activities such as value addition, processing and packaging",
+                        "documentsRequired":[
+                            "1. PAN card",
+                            " 2. Aadhaar",
+                             "3. Address proof", "4. Utility certificate (Address)", "5. Bank account details", 
+                             "6. Quotation for machinery to be installed and raw materials to be procured" ,
+                             "7. Udayam certificate", "8. GST Registration certificate",
+                              "9. Latest two years ITR copies", "10. Bank and loan statements", "11. Educational qualification certificate(s)", 
+                              "12. Trained skillset certificate(s)", "13. CIBIL Report"
+                        ]
+                    }
+                },
+                {
+                    "inputTypeName":"Financial assistance to New Agri Entreprenuers",
+                    "details":{
+                        "schemeDescription":"The scheme aims to promote agri entrepreneurship in food and agri allied sector by developing their business skill set through entrepreneurship training and providing financial linkage to the individuals. All the economically viable agri related activities such as value addition, processing and packaging facilities (including primary processing). Priority will be given to projects which are eco-friendly, accord importance to energy conservation and are export oriented. The total project cost shall be the maximum of Rs.5.00 lakhs. Capital subsidy will 40% of project cost not exceeding maximum of Rs.2.00 lakhs. Promoter’s contribution is 20% of the project cost.",
+                        "subsidy":"40% of project cost not exceeding maximum of Rs.2.00 lakhs ",
+                        "Eligibility":"Individuals with Degree/ Diploma/ ITI / Vocational training from Recognized institutions. Preference will be given for the Agricultural graduates. All the economically viable agri related activities such as value addition, processing and packaging",
+                        "documentsRequired":[
+                            "1. PAN card", "2. Aadhaar" ,
+                            "3. Address proof", "4. Utility certificate (Address)",
+                             "5. Bank account details", "6. Quotation for machinery to be installed and raw materials to be procured",
+                             "7. Udayam certificate", "8. GST Registration certificate",
+                              "9. Latest two years ITR copies",
+                              " 10. Bank and loan statements", 
+                              "11. Educational qualification certificate(s)",
+                              " 12. Trained skillset certificate(s)", "13. CIBIL Report"
+                        ]
+                    }
+                }
+                
+            ]
+        }
+     ]
+}
+,
+{
+    "deptName":"Tamil Nadu Watershed development Agency",
+    "schemes":[
+        {
+            "schemeName":"Water shed development component",
+            "inputTypes":[
+                {
+                    "inputTypeName":"Instituition and capacity Building",
+                    "details":{
+                        "schemeDescription":"Providing Development Platform in agri based Knowledge",
+                        "subsidy":"250 person /day (within the district),1000 person /day(within the state",
+                        "Eligibility":"Nil", 
+                        "documentsRequired":["Nil"]
+                    }
+                },
+                {
+                    "inputTypeName":"Producion system",
+                    "details":{
+                        "schemeDescription":"Providing Financial assistance for Works including Horticulture plantation,Agro forestry,Floriculture ,Fodder Cultivation, Vermicompost,Supply of Hand Sprayer and Battery sprayer,Distribution Of Goat/Sheep and Poultry rearing",
+                        "subsidy":"Providing assistance as Horticulture(Rs 15000/ha),Agro forestry(Rs 15000/ha),Floriculture (Rs 10000/ha),Fodder Cultivation(Rs 10000/ha), Vermicompost(Rs 25000/ha),Supply of Hand Sprayer(Rs 1500/Person) and Battery sprayer(Rs 5000/person),Distribution Of Goat/Sheep (Rs 10000/Person)and Poultry rearing(rs 5000/Person)",
+                        "Eligibility":"All farmers", 
+                        "documentsRequired":[
+                          "1 Aadhaar",
+                          "2.Organisation Details"
+                        ]
+                    }
+                },
+                {
+                    "inputTypeName":"Farm Pond",
+                    "details":{
+                        "schemeDescription":"Providing Financial assistance for installation of pond in farm",
+                        "subsidy":"Rs.100000 / No ",
+                        "Eligibility":"All farmers", 
+                        "documentsRequired":[
+                          "1 Aadhaar",
+                          "2.Organisation Details",
+                          "3. Adangal",
+                          "4.Patta",
+                          "5. Chitta"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+
+
+]
+}
+    
